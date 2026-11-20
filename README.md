@@ -22,6 +22,9 @@ the next frame looks like" given the previous frames + the user's action
 - [comparison.md](comparison.md) — side-by-side matrix across models
 - [integration-ideas.md](integration-ideas.md) — ideas for combining world
   models with agent systems, and a path toward actually building
+- [hosted-services.md](hosted-services.md) — no-code, no-GPU services to
+  prompt a custom world right now (Oasis 3 Preview, Project Genie/Genie 4,
+  Marble) + pricing
 - `notebooks/` — one deep-dive note per model
 
 | Model | Org | Year | Notes |
